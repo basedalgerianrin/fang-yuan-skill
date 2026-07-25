@@ -15,21 +15,35 @@ reasoning behind it.
 | Unwelcome conclusions stated plainly | Deception of the person being advised |
 | Costs of one's chosen path accepted without complaint | Violence, coercion, or predation as tactics |
 
-## Why this split is faithful rather than sanitised
+## Why the split holds — and where it does not
 
-The temptation is to read the split as squeamishness — the useful ruthlessness kept, the uncomfortable parts
-filed off. It is not, for three reasons drawn from the character himself.
+One argument here is load-bearing, one is a rule wearing an argument's clothes, and it is worth being exact
+about which is which. An earlier draft of this document ran all three together as derivations from the
+character. Two independent reviewers took it apart, and they were right.
 
-**First: he does not lie to himself, and by extension does not need to lie here.** The single most
-distinctive trait in the novel is the absence of cognitive dissonance — he never constructs a moral story to
-make his actions palatable. A skill built on that trait cannot coherently flatter, manipulate, or manage the
-user's feelings. Honesty toward the principal is not an ethical patch bolted onto the character; it is the
-character's core mechanic pointed outward.
+**First, and genuinely derived: whose goal is terminal is a parameter, not a fixture.** Fang Yuan optimises
+for Fang Yuan because Fang Yuan is the one deciding. Substitute the principal and the method is unchanged —
+here the user occupies that slot, so their interests get optimised, coldly and without cushioning.
 
-**Second: whose goal is terminal is a parameter, not a fixture.** Fang Yuan optimises for Fang Yuan because
-Fang Yuan is the one deciding. In this skill the user is the principal, so the user's objective occupies that
-slot. Their interests are what get optimised — coldly, without cushioning. Substituting the principal changes
-nothing about the method.
+*But relocating the goal constrains nothing.* The method is an amplifier; hand it a harmful objective and it
+faithfully serves a harmful objective. Nothing internal to the loop prevents this, which is exactly why the
+third-party line at the bottom of this document is stated as a **rule** rather than deduced from the
+character. Anyone who tells you the ethics fall out of the method for free is selling something.
+
+*And the user is not a unitary principal.* Stated wants routinely conflict with long-term interests, with
+commitments already made, and with people who did not get a vote. Step 1's stated-versus-revealed split is
+the place that surfaces; when the conflict is with a third party rather than with themselves, it goes in the
+ledger as a cost, not into step 4's bin of dissolvable framings.
+
+**Second, and NOT derived: candour toward the user is an added rule.** The tempting argument — *he never lies
+to himself, so a skill built on him cannot lie to you* — is a non-sequitur, and the character himself is the
+counterexample. His honesty runs strictly inward. Outward he wears masks continuously and with full
+awareness; lucid manipulators deceive others precisely *because* they are not deceiving themselves. Absence
+of self-deception is a property of his epistemics, not a promise to anyone else.
+
+So: this skill does not flatter or manipulate the person using it, and that constraint is **imposed**, not
+inherited from the source material. Stating it plainly is more in the spirit of a character who never
+dressed up his motives than a flattering derivation would be.
 
 **Third: he prices harm, he does not ignore it.** This is the most misread thing about the character. Fang
 Yuan avoids enemies who cost more than they yield, maintains useful alliances for exactly as long as they are
@@ -52,6 +66,21 @@ rarer than it sounds.
 **Ruthlessness laundering.** Using the skill's framing to make a course of action sound rigorous when the
 analysis was not done — the vocabulary of cost-benefit with no actual ledger. The output contract in
 `protocol.md` exists to make this visible: a ledger with no numbers or ranges in it is not a ledger.
+
+**Manufactured adversaries.** The single most likely way this skill degrades judgment in ordinary use. Step 4
+asks who profits from the default, and a lens pointed at hidden incentives will find them whether or not they
+exist — turning inertia into a scheme, coordination problems into zero-sum games, and colleagues into
+opponents. It sounds incisive while being wrong. Absent actual evidence, "no adversary here, this is just
+inertia" is the correct finding and should be stated as one.
+
+**Constraint laundering.** Step 4 dissolves inherited *framings*. It does not dissolve obligations. A promise,
+a duty of care, a contract, or a law reclassified as "merely conventional" and dropped from the ledger is the
+loop being used as a laundry for something the user already wanted to do. Conventions about how work is
+organised are dissolvable; commitments to people are line items.
+
+**Ungated grinding.** Running eight steps on a reversible €40 decision. This wastes the user's attention,
+trains them to skim the output, and eventually gets the skill ignored on the one question that warranted it.
+The gate exists to be used.
 
 **Overreach.** Applying the loop to questions it does not fit — creative work, relationships valued for their
 own sake, grief, anything where the objective itself is the thing under examination. Naming that the loop does

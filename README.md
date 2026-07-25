@@ -33,14 +33,15 @@ The skill triggers on strategic and decision work — go/no-go calls, kill-or-co
 better-resourced opponent, or any plan that might be resting on comfortable assumptions. It stays out of
 routine coding, debugging and factual lookup.
 
-**The loop:**
+**The loop** — gated first on stakes, because running eight steps on a reversible €40 decision is how a skill
+like this gets ignored on the one question that mattered:
 
 | # | Operation | What it kills |
 |---|---|---|
 | 1 | Name the terminal goal — stated vs revealed | Solving the problem as framed when the framing is wrong |
-| 2 | Strip the convenient facts | Ratifying a flattering self-narrative |
+| 2 | Strip the convenient facts, then name the rival hypothesis and the cheapest test that separates them | Ratifying a flattering self-narrative — *and* swapping it for an equally unevidenced grim one |
 | 3 | Price it; prior investment is not an input | Sunk-cost defence of a dead plan |
-| 4 | Check whose plot you're in | Accepting an inherited framing as physics |
+| 4 | Check whose plot you're in — evidence required before naming an adversary; obligations are never "inherited constraints" | Accepting an inherited framing as physics |
 | 5 | Stack contingencies | Single-path plans sold as certainties |
 | 6 | Re-price on deviation | Explaining away disconfirming evidence |
 | 7 | Separate recoverable cost from ruin | "Be bold" advice that risks ruin |
@@ -70,11 +71,21 @@ notice that bridges have value.
 | Contingency depth | Indifference to harm as a class of cost |
 | Unwelcome conclusions stated plainly | Deception of the person being advised |
 
-The split is fidelity, not sanitisation. Whose goal sits in the terminal slot is a *parameter* — Fang Yuan
-optimises for Fang Yuan because Fang Yuan is the one deciding. Here the user is the principal, so it is their
-interests that get optimised, coldly. And a skill built on a character defined by not lying to himself cannot
-coherently flatter or manage the person using it. Full reasoning in
-[`boundaries.md`](skills/fang-yuan/references/boundaries.md).
+One argument here is load-bearing and one is a rule wearing an argument's clothes, and the plugin says which
+is which.
+
+**Derived:** whose goal sits in the terminal slot is a *parameter*. Fang Yuan optimises for Fang Yuan because
+Fang Yuan is the one deciding; substitute the principal and the method is unchanged. Here that is the user,
+so it is their interests that get optimised, coldly.
+
+**Not derived:** everything else. Relocating the goal constrains nothing — the method amplifies whatever
+objective it is handed, so the third-party line is imposed as a rule, not deduced. And candour toward the user
+is likewise imposed: the tempting argument that *a character who never lies to himself cannot lie to you* is a
+non-sequitur, and the character is his own counterexample — his honesty runs inward while he wears masks
+outward continuously. Absence of self-deception is an epistemic property, not a promise to anyone.
+
+Saying so plainly is more in the spirit of someone who never dressed up his motives than a tidier derivation
+would be. Full reasoning in [`boundaries.md`](skills/fang-yuan/references/boundaries.md).
 
 ## Voice
 
@@ -94,10 +105,42 @@ Three lines that circulate widely in secondary character-analysis articles are l
 TVTropes returned 402/403 during research and could not be consulted directly; the profile was cross-checked
 against two independent secondary analyses and the verified quote set.
 
+## How original is this, honestly
+
+Not very, step by step. Sunk-cost discipline, pre-mortems, Bayesian updating and ruin-avoidance are standard
+debiasing material, and step 8 is presentation rather than reasoning. Two independent reviewers put the least
+standard element at step 4 — treating defaults as the output of someone's incentives rather than as neutral
+background — and even that is borrowed from institutional economics.
+
+What the plugin actually contributes is the forcing function: eight things that are individually well known
+and routinely skipped, run together, terminating in a fixed output contract with a kill condition. If you
+already do all of this reliably, you do not need it.
+
+## Reviewed
+
+v1.1 was rebuilt after an adversarial pass by four models — Gemini 3.5 Flash and Grok on canon accuracy,
+GPT-5.6 and DeepSeek V4 on design. All twelve canon claims returned TRUE from both fact-checkers, and both
+independently rejected the three quotes already flagged unverified.
+
+The design pass was less kind, and four findings changed the plugin:
+
+- **A framing was wrong and has been withdrawn.** Both reviewers independently identified "he never lies to
+  himself, so this skill cannot lie to you" as a non-sequitur. It was. Candour toward the user is now stated
+  as an imposed rule, with the character named as its own counterexample.
+- **The method amplifies whatever goal it is given** — relocating the principal constrains nothing. Now said
+  outright instead of glossed.
+- **Manufactured adversaries** were flagged as the most likely real-world failure: a lens aimed at hidden
+  incentives finds them everywhere. Step 4 now requires evidence before naming a beneficiary, and treats "no
+  adversary here, this is inertia" as a valid finding. It also refuses to let obligations be reclassified as
+  dissolvable "inherited constraints".
+- **Two missing steps** — a stakes gate before the loop, and a discriminating test inside step 2 so that
+  stripping a comfortable belief produces an observation rather than a darker guess.
+
 ## Testing
 
-[`TESTS.md`](TESTS.md) holds six scenarios — three discipline-pressure, two application, one voice-discipline
-— with pass criteria, following the RED–GREEN method from Obra's `superpowers:writing-skills`.
+[`TESTS.md`](TESTS.md) holds nine scenarios — discipline-pressure, application, voice-discipline, and three
+added from the review pass (manufactured adversary, constraint laundering, stakes gate) — with pass criteria,
+following the RED–GREEN method from Obra's `superpowers:writing-skills`.
 
 **They have not been executed yet.** The scenarios are written and ready; the baseline runs are outstanding.
 Treat this as v1.0 of an untested skill and calibrate accordingly.

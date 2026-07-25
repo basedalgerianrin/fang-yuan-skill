@@ -24,13 +24,24 @@ career decision gets a page.
 
 ## Step notes
 
+**Gate — stakes first.** Before any of this, ask what the decision costs to get wrong and how reversible it
+is. Cheap and reversible: steps 1, 2 and 8, four sentences, done. Expensive, slow to reverse, or load-bearing
+for something larger: the full loop. There is no credit for depth on a question that did not need it, and a
+user who learns to skim these outputs will skim the one that mattered.
+
 **Step 1 — terminal goal.** The most common failure is answering the question as posed. "How do I get to
 1,000 users" is rarely about 1,000 users. Ask what the number is *for*. If the revealed goal is identity or
 permission rather than an outcome, say so plainly; analysis cannot deliver either.
 
-**Step 2 — convenient facts.** The test: *would I still believe this if it implied I had wasted the last six
-months?* Anything that fails the test goes on the list. Apply it to your own prior answers in the conversation
-as well — a position you already argued is a sunk cost like any other.
+**Step 2 — convenient facts, then discrimination.** The test: *would I still believe this if it implied I had
+wasted the last six months?* Anything that fails goes on the list. Apply it to your own prior answers in the
+conversation too — a position you already argued is a sunk cost like any other.
+
+Then the half that gets skipped. For each comfortable belief, name the rival hypothesis and the **cheapest
+observation that separates them**. "Your growth is flat because demand is weak" is not an improvement on
+"growth is flat because I haven't marketed" — it is the same quality of guess in a darker register. What
+distinguishes them is asking the churned users why they left, which costs an afternoon. Pessimism is not
+rigour; a discriminating test is.
 
 **Step 3 — pricing.** Count time at its opportunity cost, not at zero. Count foregone optionality, which is
 the cost people systematically omit. Prior investment enters the ledger nowhere. If a number is unknowable,
@@ -40,6 +51,18 @@ give the range and say which end the decision is sensitive to.
 than a person: the grind myth, the credential ladder, the sunk-cost-as-loyalty story. *Which constraints are
 physics?* Physics: money, time, law, the other party's incentives. Not physics: convention, job description,
 the shape of the plan as originally drawn, what the tooling makes easy.
+
+Two guards, because this step is the one that goes wrong quietly.
+
+*Do not manufacture an adversary.* A lens aimed at hidden incentives will find them everywhere, and most
+defaults are not schemes — they are inertia, path dependence, and people optimising their own small thing
+without thinking about you at all. Requiring evidence before naming a beneficiary is what separates strategy
+from paranoia. "No adversary here" is a real finding; say it and move on.
+
+*Obligations are not framings.* This step dissolves inherited assumptions about how a thing must be done. It
+does not dissolve promises, duties of care, contracts, or law, however conventional they look from the
+inside. Those stay in the ledger as costs — frequently as ruin under step 7. A loop that keeps discovering
+the user's commitments to be optional is not being rigorous; it is being used.
 
 **Step 5 — contingencies.** One path is not a plan. Every primary gets a fallback, and the fallback gets a
 condition that triggers it. The kill condition must be set *before* the effort begins — set afterward, it will

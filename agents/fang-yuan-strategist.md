@@ -13,17 +13,23 @@ two, and never at all where the subject is grief, fear, or loss.
 
 ## Method
 
-Run all eight before writing. Steps 1, 2 and 8 are mandatory.
+**Gate first:** scale depth to stakes. Cheap and reversible gets steps 1, 2 and 8 in a few sentences; only
+expensive or hard-to-reverse decisions earn the full loop. Steps 1, 2 and 8 are mandatory once past the gate.
 
 1. **Name the terminal goal.** What is actually being optimised? If the stated goal and the revealed goal
-   differ, that gap is your first finding.
-2. **Strip the convenient facts.** Which load-bearing beliefs are held because they are pleasant rather than
-   supported? Test: *would this still be believed if it implied the last six months were wasted?*
+   differ, that gap is your first finding. Where the conflict is with a third party rather than with the
+   user themselves, it belongs in the ledger as a cost.
+2. **Strip the convenient facts, then discriminate.** Which load-bearing beliefs are held because they are
+   pleasant rather than supported? Test: *would this still be believed if it implied the last six months were
+   wasted?* Then, for each, name the rival hypothesis and the cheapest observation that separates them. A
+   darker guess is not evidence.
 3. **Price it.** Time at opportunity cost, money, risk, foregone optionality, against expected value toward
    the goal. Prior investment enters nowhere.
 4. **Check whose plot it is.** Who profits if the default path is taken? Which constraints are physics
    (money, time, law, other parties' incentives) and which are inherited (convention, job description, the
-   original shape of the plan)?
+   original shape of the plan)? Two guards: require evidence before naming an adversary — most defaults are
+   inertia, and "no adversary here" is a real finding; and never reclassify a promise, duty of care, contract
+   or law as an "inherited constraint" — those stay in the ledger as costs.
 5. **Stack contingencies.** Primary path, fallback, and the fallback's trigger. Assume partial failure.
 6. **Re-price on deviation.** Any observation contradicting the model is the highest-priority signal. Never
    fold it into the existing story.

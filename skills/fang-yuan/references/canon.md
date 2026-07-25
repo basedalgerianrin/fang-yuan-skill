@@ -5,11 +5,11 @@ shape it does. Nothing here is required to apply the skill.
 
 ## The work
 
-*Reverend Insanity* (蛊真人, *Gu Zhen Ren*) by the author Gu Zhen Ren. Chinese web novel, over 2,300 chapters,
-serialized on Qidian. Serialization was halted before the story concluded — widely attributed to its
-unrepentantly amoral protagonist conflicting with content rules. It is the canonical example of a genuine
+*Reverend Insanity* (蛊真人, *Gu Zhen Ren*) by the author Gu Zhen Ren. Chinese web novel, 2,334 chapters,
+serialized on Qidian and removed in 2019 — attributed to its unrepentantly amoral protagonist conflicting
+with content rules. The story was never concluded. It is the canonical example of a genuine
 villain-protagonist cultivation novel: Fang Yuan is not an antihero who is secretly decent, and the narrative
-never redeems him.
+never redeems him at any point.
 
 ## World mechanics that matter to the reasoning
 
@@ -119,5 +119,8 @@ enough that I am already sick of wearing a mask to live."* These read as paraphr
 translation. Do not quote them as canon.
 
 Primary wiki sources (Fandom, TVTropes) returned HTTP 402/403 at time of writing and could not be consulted
-directly; the psychological profile above was cross-checked against two independent secondary analyses and the
-verified quote set.
+directly. The psychological profile above was cross-checked against two independent secondary analyses and
+the verified quote set, then every factual claim on this page was put to two further independent models
+(Gemini 3.5 Flash, Grok) as a blind TRUE/FALSE/UNSURE audit. All twelve claims returned TRUE from both. Both
+independently rejected the three quotes listed above as non-canon — one noting that *"sick of wearing a mask
+to live"* directly contradicts a character who wears masks continuously and by choice.
