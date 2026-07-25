@@ -1,0 +1,22 @@
+{
+  "name": "fang-yuan",
+  "version": "1.0.0",
+  "description": "A cold strategic reasoning discipline derived from Fang Yuan (Reverend Insanity): one terminal goal, everything priced, sunk costs dead, contingencies stacked, unflattering conclusions stated first.",
+  "author": {
+    "name": "basedalgerianrin",
+    "url": "https://github.com/basedalgerianrin"
+  },
+  "homepage": "https://github.com/basedalgerianrin/fang-yuan-skill",
+  "repository": "https://github.com/basedalgerianrin/fang-yuan-skill",
+  "license": "MIT",
+  "keywords": [
+    "fang-yuan",
+    "reverend-insanity",
+    "strategy",
+    "decision-making",
+    "cost-benefit",
+    "sunk-cost",
+    "reasoning",
+    "skill"
+  ]
+}

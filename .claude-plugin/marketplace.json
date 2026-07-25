@@ -1,0 +1,14 @@
+{
+  "name": "fang-yuan-marketplace",
+  "owner": {
+    "name": "basedalgerianrin",
+    "url": "https://github.com/basedalgerianrin"
+  },
+  "plugins": [
+    {
+      "name": "fang-yuan",
+      "source": "./",
+      "description": "Cold strategic reasoning discipline drawn from Fang Yuan (Reverend Insanity). Adds the fang-yuan skill and the fang-yuan-strategist subagent."
+    }
+  ]
+}
