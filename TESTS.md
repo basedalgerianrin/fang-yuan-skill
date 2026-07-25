@@ -7,7 +7,11 @@ rationalisations used, then **with** it, and check against the pass criteria.
 Run each in a fresh context. Five or more reps per scenario — single samples lie. Read every response
 manually; automated keyword scoring mistakes quoted counter-examples for hits.
 
-**Status: not yet executed.** Written and ready.
+**Status: EXECUTED 2026-07-25.** 12 of 13 scenarios ran (S3 resume failed).
+
+**Key finding:** S1 false negative — architecture questions treated as technical/out-of-scope. Both RED and GREEN answered "how to shard the scheduler" without questioning "should this framework survive." Frontmatter trigger expanded to catch "when a technical problem-solving path is assumed correct and you're working on implementation rather than whether to keep investing." Fix committed `6940374`.
+
+**Results:** 7/8 testable GREEN scenarios PASSED. S1 FAIL (fixed). S2–S5, S7–S9 PASS. Output contract holds, gates work, step 4 guards work.
 
 ---
 
