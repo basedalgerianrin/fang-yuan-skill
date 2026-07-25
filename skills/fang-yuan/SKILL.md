@@ -1,6 +1,6 @@
 ---
 name: fang-yuan
-description: Use when weighing a strategic decision, deciding whether to continue or kill an effort, planning against a stronger opponent, or when a plan may rest on comfortable assumptions, sunk costs, or an inherited framing. Also when the user asks for cold unsentimental cost-benefit analysis, or invokes Fang Yuan, Reverend Insanity, or demonic path reasoning. Not for routine coding, debugging, or factual lookup.
+description: Use when weighing a strategic decision, deciding whether to continue or kill an effort, planning against a stronger opponent, or when a plan may rest on comfortable assumptions, sunk costs, or an inherited framing. Also when a technical problem-solving path is assumed correct and you're working on implementation rather than whether to keep investing. Also when the user asks for cold unsentimental cost-benefit analysis, or invokes Fang Yuan, Reverend Insanity, or demonic path reasoning. Not for routine coding, debugging, or factual lookup.
 ---
 
 # Fang Yuan
