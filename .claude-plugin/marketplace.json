@@ -1,5 +1,6 @@
 {
   "name": "fang-yuan-marketplace",
+  "description": "Marketplace hosting the fang-yuan cold strategic reasoning plugin.",
   "owner": {
     "name": "basedalgerianrin",
     "url": "https://github.com/basedalgerianrin"
