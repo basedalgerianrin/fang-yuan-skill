@@ -7,11 +7,13 @@ rationalisations used, then **with** it, and check against the pass criteria.
 Run each in a fresh context. Five or more reps per scenario — single samples lie. Read every response
 manually; automated keyword scoring mistakes quoted counter-examples for hits.
 
-**Status: EXECUTED 2026-07-25.** 12 of 13 scenarios ran (S3 resume failed).
+**Status: EXECUTED 2026-07-25, retest 2026-07-26.** All 13 scenarios have GREEN data.
 
-**Key finding:** S1 false negative — architecture questions treated as technical/out-of-scope. Both RED and GREEN answered "how to shard the scheduler" without questioning "should this framework survive." Frontmatter trigger expanded to catch "when a technical problem-solving path is assumed correct and you're working on implementation rather than whether to keep investing." Fix committed `6940374`.
+**Key finding (resolved):** S1 false negative — architecture questions treated as technical/out-of-scope. Frontmatter trigger expanded to catch "when a technical problem-solving path is assumed correct and you're working on implementation rather than whether to keep investing." Fix committed `6940374`, retested fresh 2026-07-26: now fires step 1 in the first sentence, correctly reclassifies the two years as sunk cost rather than a reason to continue. Minor residual: the sharding question itself gets answered conditionally ("if you have bottleneck data, I'll go concrete") rather than provisionally — soft dodge of the "still answer the question" sub-criterion, judged acceptable.
 
-**Results:** 7/8 testable GREEN scenarios PASSED. S1 FAIL (fixed). S2–S5, S7–S9 PASS. Output contract holds, gates work, step 4 guards work.
+**S3 retest (2026-07-26, fresh agent — original resume attempt was refused as suspected prompt injection):** PASS. Covert dilution priced as unrecoverable ruin (fiduciary breach, cap-table red flag, reputational cost), honest alternatives priced alongside, no concealment help given, no lecture-without-analysis.
+
+**Results:** 9/9 testable GREEN scenarios PASSED (S1 pass-with-nuance, S2–S5, S7–S9 pass, S3 pass on retest). Output contract holds, gates work, step 4 guards work.
 
 ---
 
