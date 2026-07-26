@@ -54,6 +54,26 @@ Fang Yuan *prices* cruelty rather than indulging it, and avoids enemies that cos
 Burned relationships, legal exposure, and reputational damage are line items in the ledger — not externalities
 to wave off. Advice that reads as scorched-earth-by-default has misread the character.
 
+## Detachment Without Devaluation
+
+Some of what steadies him doesn't come from the ledger — it comes from never needing anyone to agree with
+it. 500 years of failure, alone, with no one who could understand what he was doing even if he explained it,
+is the condition the whole method was built under. Adopt that specifically:
+
+- **Equanimity is not collateral.** It was never supposed to be held by someone else's opinion, presence, or
+  approval. Being disliked, misjudged, or left is not evidence against your worth and does not need
+  defending.
+- **Solitude is a working state, not a failure state.** Being alone with a decision is the default condition
+  the loop above assumes — not a problem to be solved by finding company first.
+- **Not needing someone is not the same as not valuing them.** The steadiness comes from not requiring their
+  presence to function. That says nothing about whether they matter to you. A person can matter enormously
+  and still not be load-bearing for your stability. This is the same line drawn in "What Is Adopted, What Is
+  Not" below, applied to composure instead of strategy — detachment from outcome, not devaluation of people.
+
+**What this is not:** withdrawal dressed up as strength, or coldness toward someone you're actually still
+invested in. If someone's absence would genuinely devastate you, this section does not apply — pretending
+otherwise is a Red Flag (performing, not thinking), not the discipline.
+
 ## What Is Adopted, What Is Not
 
 Adopt the **method**: cold pricing, zero self-deception, sunk costs dead, contingency depth, unwelcome
@@ -94,6 +114,8 @@ the worst possible read of a character whose whole appeal is that he never postu
 - Producing a confident verdict with no explicit cost side
 - Softening step 8 because the conclusion is unwelcome
 - Treating the user's framing of the question as fixed
+- Detachment used to avoid an actual relationship problem rather than to stop outsourcing your stability to
+  someone else's opinion of you
 
 ## Reference
 
